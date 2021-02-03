@@ -197,4 +197,5 @@
 	7. For more information according to payment, subscription, cancelation of subscriptions
     please contact provided customer service email address
 
-
+##### contact us
+customer.support@simple-study.co
